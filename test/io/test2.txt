@@ -1,0 +1,6 @@
+test_line1
+test_line2
+.
+.
+测试Hello,world
+Hello,world
